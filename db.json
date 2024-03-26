@@ -1,32 +1,34 @@
-[
-  {
-    "id" : 1,
-    "parc_id":1,
-    "nom": "Grand 8",
-    "description": "Lorem ipsum dolor sit amet"
-  },
-  {
-    "id" : 2,
-    "parc_id":1,
-    "nom": "Auto-tamponneuse",
-    "description": "Lorem ipsum dolor sit amet"
-  },
-  {
-    "id" : 3,
-    "parc_id":1,
-    "nom": "Super 6",
-    "description": "Lorem ipsum dolor sit amet"
-  },
-  {
-    "id" : 4,
-    "parc_id":1,
-    "nom": "Beat the goal",
-    "description": "Lorem ipsum dolor sit amet"
-  },
-  {
-    "id" : 5,
-    "parc_id":1,
-    "nom": "Guess the number",
-    "description": "Lorem ipsum dolor sit amet"
-  }
-]
+{
+  "parcs":[
+    {
+      "id" : 1,
+      "parc_id":1,
+      "nom": "Grand 8",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id" : 2,
+      "parc_id":1,
+      "nom": "Auto-tamponneuse",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id" : 3,
+      "parc_id":1,
+      "nom": "Super 6",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id" : 4,
+      "parc_id":1,
+      "nom": "Beat the goal",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id" : 5,
+      "parc_id":1,
+      "nom": "Guess the number",
+      "description": "Lorem ipsum dolor sit amet"
+    }
+  ]
+}
